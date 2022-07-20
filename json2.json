@@ -1,0 +1,96 @@
+[
+  {
+    "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit odio porta volutpat nostra tempus curae fames, dictumst posuere elementum netus nisl pellentesque convallis tempor in vestibulum vivamus morbi praesent. Ornare semper curae dapibus suspendisse urna bibendum ipsum suscipit hac, aenean etiam phasellus magnis ac lacus natoque ultrices dolor, posuere tristique sodales quam a ultricies integer interdum. Sodales quis adipiscing praesent integer ultricies laoreet tincidunt quam nec, class platea vulputate primis lacinia eget semper nunc purus sollicitudin, montes mattis mauris ante consequat ligula ultrices rutrum. Molestie pretium inceptos erat sem mauris convallis nisl justo, sit leo consectetur adipiscing libero class fames morbi, dis ligula luctus aenean fermentum et augue. Semper velit placerat aliquam interdum dictumst viverra quis primis habitasse gravida erat sapien metus venenatis dis facilisi porttitor, consequat quam cubilia mattis pulvinar varius tempus in nulla pretium per risus ad egestas orci. Volutpat phasellus potenti orci vitae at diam parturient aptent aliquet, sit leo purus iaculis praesent ut euismod senectus eleifend, ullamcorper molestie turpis justo consectetur suspendisse sodales est. Erat sem nostra tempor vestibulum tristique bibendum hendrerit arcu convallis natoque sollicitudin molestie, taciti consequat ultrices varius torquent massa velit pretium fermentum nulla. Maximus primis volutpat dignissim molestie nisi amet finibus, metus porttitor libero integer rhoncus hac pretium, a ut ante fermentum mauris ullamcorper.",
+    "id": 10,
+    "label": [
+      {
+        "start": 102,
+        "end": 519,
+        "text": "dictumst posuere elementum netus nisl pellentesque convallis tempor in vestibulum vivamus morbi praesent. Ornare semper curae dapibus suspendisse urna bibendum ipsum suscipit hac, aenean etiam phasellus magnis ac lacus natoque ultrices dolor, posuere tristique sodales quam a ultricies integer interdum. Sodales quis adipiscing praesent integer ultricies laoreet tincidunt quam nec, class platea vulputate primis laci",
+        "labels": [
+          "prediction"
+        ]
+      },
+      {
+        "start": 710,
+        "end": 1138,
+        "text": "cing libero class fames morbi, dis ligula luctus aenean fermentum et augue. Semper velit placerat aliquam interdum dictumst viverra quis primis habitasse gravida erat sapien metus venenatis dis facilisi porttitor, consequat quam cubilia mattis pulvinar varius tempus in nulla pretium per risus ad egestas orci. Volutpat phasellus potenti orci vitae at diam parturient aptent aliquet, sit leo purus iaculis praesent ut euismod se",
+        "labels": [
+          "annotations"
+        ]
+      },
+      {
+        "start": 1218,
+        "end": 1436,
+        "text": "es est. Erat sem nostra tempor vestibulum tristique bibendum hendrerit arcu convallis natoque sollicitudin molestie, taciti consequat ultrices varius torquent massa velit pretium fermentum nulla. Maximus primis volutpa",
+        "labels": [
+          "lead time"
+        ]
+      },
+      {
+        "start": 1436,
+        "end": 1441,
+        "text": "t dig",
+        "labels": [
+          "lead time"
+        ]
+      },
+      {
+        "start": 1446,
+        "end": 1456,
+        "text": "m molestie",
+        "labels": [
+          "lead time"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 17,
+    "created_at": "2022-07-20T11:12:44.495245Z",
+    "updated_at": "2022-07-20T11:12:49.033305Z",
+    "lead_time": 14.949
+  },
+  {
+    "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit odio porta volutpat nostra tempus curae fames, dictumst posuere elementum netus nisl pellentesque convallis tempor in vestibulum vivamus morbi praesent. Ornare semper curae dapibus suspendisse urna bibendum ipsum suscipit hac, aenean etiam phasellus magnis ac lacus natoque ultrices dolor, posuere tristique sodales quam a ultricies integer interdum. Sodales quis adipiscing praesent integer ultricies laoreet tincidunt quam nec, class platea vulputate primis lacinia eget semper nunc purus sollicitudin, montes mattis mauris ante consequat ligula ultrices rutrum. Molestie pretium inceptos erat sem mauris convallis nisl justo, sit leo consectetur adipiscing libero class fames morbi, dis ligula luctus aenean fermentum et augue. Semper velit placerat aliquam interdum dictumst viverra quis primis habitasse gravida erat sapien metus venenatis dis facilisi porttitor, consequat quam cubilia mattis pulvinar varius tempus in nulla pretium per risus ad egestas orci. Volutpat phasellus potenti orci vitae at diam parturient aptent aliquet, sit leo purus iaculis praesent ut euismod senectus eleifend, ullamcorper molestie turpis justo consectetur suspendisse sodales est. Erat sem nostra tempor vestibulum tristique bibendum hendrerit arcu convallis natoque sollicitudin molestie, taciti consequat ultrices varius torquent massa velit pretium fermentum nulla. Maximus primis volutpat dignissim molestie nisi amet finibus, metus porttitor libero integer rhoncus hac pretium, a ut ante fermentum mauris ullamcorper.",
+    "id": 9,
+    "label": [
+      {
+        "start": 0,
+        "end": 207,
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit odio porta volutpat nostra tempus curae fames, dictumst posuere elementum netus nisl pellentesque convallis tempor in vestibulum vivamus morbi praesent.",
+        "labels": [
+          "prediction"
+        ]
+      },
+      {
+        "start": 208,
+        "end": 785,
+        "text": "Ornare semper curae dapibus suspendisse urna bibendum ipsum suscipit hac, aenean etiam phasellus magnis ac lacus natoque ultrices dolor, posuere tristique sodales quam a ultricies integer interdum. Sodales quis adipiscing praesent integer ultricies laoreet tincidunt quam nec, class platea vulputate primis lacinia eget semper nunc purus sollicitudin, montes mattis mauris ante consequat ligula ultrices rutrum. Molestie pretium inceptos erat sem mauris convallis nisl justo, sit leo consectetur adipiscing libero class fames morbi, dis ligula luctus aenean fermentum et augue.",
+        "labels": [
+          "annotations"
+        ]
+      },
+      {
+        "start": 786,
+        "end": 1567,
+        "text": "Semper velit placerat aliquam interdum dictumst viverra quis primis habitasse gravida erat sapien metus venenatis dis facilisi porttitor, consequat quam cubilia mattis pulvinar varius tempus in nulla pretium per risus ad egestas orci. Volutpat phasellus potenti orci vitae at diam parturient aptent aliquet, sit leo purus iaculis praesent ut euismod senectus eleifend, ullamcorper molestie turpis justo consectetur suspendisse sodales est. Erat sem nostra tempor vestibulum tristique bibendum hendrerit arcu convallis natoque sollicitudin molestie, taciti consequat ultrices varius torquent massa velit pretium fermentum nulla. Maximus primis volutpat dignissim molestie nisi amet finibus, metus porttitor libero integer rhoncus hac pretium, a ut ante fermentum mauris ullamcorper.",
+        "labels": [
+          "lead time"
+        ]
+      },
+      {
+        "start": 204,
+        "end": 208,
+        "text": "nt. ",
+        "labels": [
+          "annotations"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 16,
+    "created_at": "2022-07-20T11:12:25.276516Z",
+    "updated_at": "2022-07-20T11:12:32.500603Z",
+    "lead_time": 47.42
+  }
+]
